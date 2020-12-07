@@ -4,6 +4,7 @@
 #include "core/Units.h"
 
 #include <QJsonObject>
+#include <QtWidgets>
 
 namespace CustomDataHelpers {
 

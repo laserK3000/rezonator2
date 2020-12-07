@@ -4,6 +4,7 @@
 #include "Math.h"
 #include "Parameters.h"
 #include "core/OriTemplates.h"
+#include <QtWidgets>
 
 #define DECLARE_ELEMENT(class_name, base_class)\
     class class_name : public base_class\

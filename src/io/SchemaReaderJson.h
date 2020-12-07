@@ -2,6 +2,7 @@
 #define SCHEMA_READER_JSON_H
 
 #include "../core/Report.h"
+#include <QtWidgets>
 
 class Element;
 class Schema;
